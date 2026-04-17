@@ -66,7 +66,7 @@
 		}
 	],
 	"variable": [
-		{ "key": "base_url", "value": "http://localhost:5000" },
+		{ "key": "base_url", "value": "https://se-yaha-a2b2sp3kj-abdelrhman-manaas-projects.vercel.app" },
 		{ "key": "token", "value": "" },
 		{ "key": "service_id", "value": "" },
 		{ "key": "company_id", "value": "" },
